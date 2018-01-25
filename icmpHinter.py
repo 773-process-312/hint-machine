@@ -87,7 +87,7 @@ if __name__ == '__main__':
     machine = HintMachine()
     machine.importFromCsv('hints-examples.csv')
     machine.showHints()
-    machine.start(duration=-1, releaseFreq=60)
+    machine.start(duration=0, releaseFreq=60)
     #machine.addHint(myhint)
     #machine.broadcastHints()
 

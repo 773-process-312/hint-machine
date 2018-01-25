@@ -2,8 +2,9 @@
 
 This is a simple tool initially created to send periodically CTF hints through ICMP broadcasted messages.
 
-## Usage 
+[Imgur](https://i.imgur.com/W3wyHTH.jpg)
 
+## Usage 
 
 ### hints.csv
 The tool loads the hints from a CSV file, according ot the following format :
