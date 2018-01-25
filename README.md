@@ -2,7 +2,7 @@
 
 This is a simple tool initially created to send periodically CTF hints through ICMP broadcasted messages.
 
-[Imgur](https://i.imgur.com/W3wyHTH.jpg)
+![](https://i.imgur.com/W3wyHTH.jpg)
 
 ## Usage 
 
