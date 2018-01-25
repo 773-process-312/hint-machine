@@ -1,6 +1,6 @@
-# ICMP Hinter
+# Hint-Machine
 
-This is a simple tool initially created to send periodically CTF hints through ICMP broadcasted messages.
+This is a simple tool initially created to send periodically hints through ICMP broadcasted messages during CTF challenges.
 
 ![](https://i.imgur.com/W3wyHTH.jpg)
 
